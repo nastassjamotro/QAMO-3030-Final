@@ -21,6 +21,6 @@ Other
 ---------------------------------------------------
 
 
-Written and coded by Nastassja Motro and Kael Berkley
+Coded by Nastassja Motro, written by Kael Berkley
 
 #### If interested in the full paper, email nastassjamotro7@gmail.com
