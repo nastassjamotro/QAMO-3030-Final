@@ -13,7 +13,7 @@ Link to all the data and other cites used to create this
 - https://portal.census.gov/pulse/data/#downloads
 - https://fred.stlouisfed.org/series/BUSAPPWNSAUS
 - https://github.com/OxCGRT/covid-policy-tracker
-
+---------------------------------------------------
 - https://www.bsg.ox.ac.uk/sites/default/files/2020-12/BSG-WP-2020-034-v2_0.pdf
 - https://portal.census.gov/pulse/data/downloads/Index-construction-for-the-Small-Business-Pulse-Survey.pdf
 
